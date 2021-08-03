@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miinhaz
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: Email
 
 <!---
