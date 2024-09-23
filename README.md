@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Miinhaz
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: Email
+- 👋 Hi, I’m @Minhaz
+- 👀 I’m interested in Generaative AI
+- 🌱 I’m currently learning LLM
+- 📫 How to reach me: miinhaz14@gmail.com
 
 <!---
 Miinhaz/Miinhaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
