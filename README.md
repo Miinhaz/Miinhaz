@@ -9,7 +9,7 @@ I am currently focused on research related to **Explainable AI (XAI)**, **Deep L
 
 ## 🌱 What I’m Learning
 - **Large Language Models (LLMs)**
-- **MLops**
+- **MLOps**
 - Exploring **AI Engineering** and enhancing my programming skills
 
 ## 👨‍💻 My Projects
