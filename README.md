@@ -16,12 +16,13 @@ I am currently focused on research related to **Explainable AI (XAI)**, **Deep L
 You can find all of my projects on [GitHub](https://github.com/Miinhaz). Additionally, my research work is available on my [Google Scholar profile](https://scholar.google.com/citations?user=vZO6M-4AAAAJ&hl=en).
 
 ### Upcoming Research
-I have several new research projects in the pipeline, including two Q1 journals currently under review:
+I have several new research projects in the pipeline, including two journals currently under review:
 
-1. **“Enhanced Knee Osteoarthritis Classification using a Modified EfficientNetB5 Architecture with Self-Attention Mechanism”** – ICCIT 2024 (Under Review)
-2. **“Synergizing GAN and Customized Neural Network for Enhanced Brain Stroke Prediction: A Web-based Implementation”** – ICCIT 2024 (Under Review)
-3. **“Towards Sustainable Solutions: Effective Waste Classification Framework via Enhanced Deep Convolutional Neural Networks”** – PLOS ONE (Q1) 2024 (Under Review)
-4. **“Predictive Modeling and Interpretability in Public University Admissions: A Case Study from Bangladesh”** – Elsevier (Q1) 2024 (Under Review)
+1. **“Enhanced Knee Osteoarthritis Classification using a Modified EfficientNetB5 Architecture with Self-Attention Mechanism”** – ICCIT 2024 (Accepted)
+2. **“Synergizing GAN and Customized Neural Network for Enhanced Brain Stroke Prediction: A Web-based Implementation”** – ICCIT 2024 (Accepted)
+3. **“MelaNet50: An Image Enhancement and Explainable Deep Learning Approach for Skin Lesion Classification”** – ICCIT 2024 (Accepted)
+4. **“Towards Sustainable Solutions: Effective Waste Classification Framework via Enhanced Deep Convolutional Neural Networks”** – PLOS ONE, 2024 (Under Review)
+5. **“Predictive Modeling and Interpretability in Public University Admissions: A Case Study from Bangladesh”** – Sustainable Futures 2025 (Under Review)
 
 ## 💡 Interests
 - Developing **Machine Learning** and **Deep Learning** pipelines for impactful solutions
